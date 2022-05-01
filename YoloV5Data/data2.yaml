@@ -1,6 +1,6 @@
 path: ../Gold-Particle-Segmentation/YoloV5Data/  # dataset root dir
-train: train/images  #(relative to 'path')
-val: train/images  #(relative to 'path')
+train: train2/images  #(relative to 'path')
+val: train2/images  #(relative to 'path')
 
 # Classes
 nc: 1
