@@ -4,4 +4,4 @@ val: train3/images  #(relative to 'path')
 
 # Classes
 nc: 2
-names: [ '6 nm Particle', '12 nm Particle' ]
+names: [ '6nm', '12nm' ]
