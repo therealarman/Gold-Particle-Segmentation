@@ -15,9 +15,9 @@ The results for each are shown below.
 ## Results
 
 ### First Training
->*27 Training Images (Augmented Data from Roboflow)*
->*1000 Epochs*
->*1 class (6 nm Particles)*
+>*27 Training Images (Augmented Data from Roboflow)*<br>
+>*1000 Epochs*<br>
+>*1 class (6 nm Particles)*<br>
 
 ![TensorBoard](https://raw.githubusercontent.com/therealarman/Gold-Particle-Segmentation/main/img/GoldParticleMetrics.PNG)
 
@@ -36,9 +36,9 @@ The results for each are shown below.
 ![Example4](https://raw.githubusercontent.com/therealarman/Gold-Particle-Segmentation/main/img/S31%20MBTt4%20FFRIL%208wks%20Het1%20R4Bg18e%20vGlut%2018nm_panAMPA%2012nm_NR1_6nm__0003.tif.jpg)
 
 ### Second Training
->*9 Images (Cropped and Downsized to 512x512)*
->*1000 Epochs*
->*2 classes (6 nm & 12 nm)*
+>*9 Images (Cropped and Downsized to 512x512)*<br>
+>*1000 Epochs*<br>
+>*2 classes (6 nm & 12 nm)*<br>
 
 ![TensorBoard](https://raw.githubusercontent.com/therealarman/Gold-Particle-Segmentation/main/img/GoldParticleTrain2.png)
 
