@@ -4,7 +4,7 @@
 ## Overview
 This project makes use of the [**YoloV5**](https://github.com/ultralytics/yolov5) model architecture for the detection and labeling of Immunogold Particles.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/therealarman/Gold-Particle-Segmentation/blob/main/YOLOv5_Gold_Particle.ipynb]
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/therealarman/Gold-Particle-Segmentation/blob/main/YOLOv5_Gold_Particle.ipynb)
 
 2 different datasets were used in the training of this project.
 1. Roboflow annotated images w rotation & flipped axis augmentation (Downsized and cropped to 416x416)
